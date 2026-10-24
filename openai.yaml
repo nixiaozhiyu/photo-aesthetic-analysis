@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片审美拆解"
+  short_description: "在照片上标出构图依据，深入解释视觉吸引力并提炼可练习的拍摄方法"
+  default_prompt: "请使用 $photo-aesthetic-analysis 在这张照片的副本上标出构图依据，深入分析它为什么可能吸引我，并教我如何拍出类似效果。"
